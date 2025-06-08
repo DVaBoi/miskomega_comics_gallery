@@ -1,1 +1,2 @@
-# miskomega_comics_gallery-
+# miskomega.com Comics Gallery
+MiskOmega.com Comic Books Gallery Page
